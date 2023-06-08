@@ -1,0 +1,3 @@
+/* @tailwind base; comment this to make mantine work */
+@tailwind components;
+@tailwind utilities;
